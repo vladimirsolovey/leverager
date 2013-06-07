@@ -1,0 +1,15 @@
+﻿.float-left {
+    float: left!important;
+}
+
+.float-right {
+    float: right!important;
+}
+
+.clear-fix:after {
+    content: ".";
+    clear: both;
+    display: block;
+    height: 0;
+    visibility: hidden;
+}

@@ -1,0 +1,71 @@
+﻿@model IEnumerable<Leverager.Models.SuggestProduct>
+
+@{
+    ViewBag.Title = "Suggested Products";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+    var greenButton = "button green rounded average";
+    var blueButton = "button blue rounded average";
+    var greenButtonL = "button green rounded large";
+    var blueButtonL = "button blue rounded large";
+    
+}
+<div>
+    <h1 class="float-left">Suggested Products</h1>
+
+    <p class="float-right">
+        @Html.ActionLink("All", "SuggestList", "Admin", new { status = Leverager.Models.Status.All.ToString() }, 
+        htmlAttributes: new { @class = (ViewBag.CurrentStatus!=Leverager.Models.Status.All)?@blueButtonL:@greenButtonL })
+        @Html.ActionLink("New", "SuggestList", "Admin", new { status = Leverager.Models.Status.strNew }, 
+        htmlAttributes: new { @class = (ViewBag.CurrentStatus!=Leverager.Models.Status.New)? @blueButtonL: @greenButtonL })
+        @Html.ActionLink("Approved", "SuggestList", "Admin", new { status = Leverager.Models.Status.strApproved }, 
+        htmlAttributes: new { @class = (ViewBag.CurrentStatus!=Leverager.Models.Status.Approved)? @blueButtonL:@greenButtonL })
+        @Html.ActionLink("Declined", "SuggestList", "Admin", new { status = Leverager.Models.Status.strDeclined }, 
+        htmlAttributes: new { @class = (ViewBag.CurrentStatus!=Leverager.Models.Status.Declined)? @blueButtonL:@greenButtonL })
+    </p>
+    <div class="clear-fix" />
+</div>
+<table class="datatable">
+    <tr>
+        <th>
+            @*Html.DisplayNameFor(model => model.Name)*@Name
+        </th>
+        <th style="width: 2em;">
+            @*Html.DisplayNameFor(model => model.SKU)*@SKU
+        </th>
+        <th style="width: 2em;">
+            @*Html.DisplayNameFor(model => model.URL)*@URL
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Comment)
+        </th>
+        <th style="width: 11em;">
+            @Html.DisplayNameFor(model => model.Status)
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SKU)
+        </td>
+        <td>
+            <a href="@item.URL" >Link</a>
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Comment)
+        </td>
+        <td>
+            @Html.ActionLink("New", "SetStatus", "Admin", new { id=item.Id, status = Leverager.Models.Status.New.ToString() }, 
+            htmlAttributes: new { @class = (item.StatusId!=Leverager.Models.Status.New)? @blueButton: @greenButton })
+            @Html.ActionLink("Approved", "SetStatus", "Admin", new { id=item.Id, status = Leverager.Models.Status.Approved.ToString() }, 
+            htmlAttributes: new { @class = (item.StatusId!=Leverager.Models.Status.Approved)? @blueButton:@greenButton })
+            @Html.ActionLink("Declined", "SetStatus", "Admin", new { id=item.Id, status = Leverager.Models.Status.Declined.ToString() }, 
+            htmlAttributes: new { @class = (item.StatusId!=Leverager.Models.Status.Declined)? @blueButton:@greenButton })
+        </td>
+    </tr>
+}
+
+</table>

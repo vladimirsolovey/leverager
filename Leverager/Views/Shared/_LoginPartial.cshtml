@@ -1,0 +1,18 @@
+﻿@if (Request.IsAuthenticated) {
+    <text>
+        @if(User!=null && User.IsInRole("Admin"))
+        {
+            @Html.ActionLink("Admin", "Index", "Admin", routeValues: null, htmlAttributes: new { id = "adminLink", @class = "button orange rounded small" })
+        }
+        Hello, @Html.ActionLink(User.Identity.Name, "Manage", "Account", routeValues: null, htmlAttributes: new { @class = "username button blue rounded average", title = "Manage" })!
+        @using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm" })) {
+            @Html.AntiForgeryToken()
+            <a href="javascript:document.getElementById('logoutForm').submit()" class = "button green rounded average" >Log off</a>
+        }
+    </text>
+} else {
+    <ul>
+        <li>@Html.ActionLink("Register", "Register", "Account", routeValues: null, htmlAttributes: new { id = "registerLink", @class = "button blue rounded average" })</li>
+        <li>@Html.ActionLink("Log in", "Login", "Account", routeValues: null, htmlAttributes: new { id = "loginLink", @class = "button green rounded average" })</li>
+    </ul>
+}

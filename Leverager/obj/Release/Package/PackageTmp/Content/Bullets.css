@@ -1,0 +1,60 @@
+﻿ol.round {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ol.round li {
+    margin: 25px 0;
+    padding-left: 45px;
+    min-height: 30px;
+}
+
+ol.round li.zero {
+    background: url('/images/bullets/orderedList0.png') no-repeat;
+}
+
+ol.round li.one {
+    background: url('/images/bullets/orderedList1.png') no-repeat;
+}
+
+ol.round li.two {
+    background: url('/images/bullets/orderedList2.png') no-repeat;
+}
+
+ol.round li.three {
+    background: url('/images/bullets/orderedList3.png') no-repeat;
+}
+
+ol.round li.four {
+    background: url('/images/bullets/orderedList4.png') no-repeat;
+}
+
+ol.round li.five {
+    background: url('/images/bullets/orderedList5.png') no-repeat;
+}
+
+ol.round li.six {
+    background: url('/images/bullets/orderedList6.png') no-repeat;
+}
+
+ol.round li.seven {
+    background: url('/images/bullets/orderedList7.png') no-repeat;
+}
+
+ol.round li.eight {
+    background: url('/images/bullets/orderedList8.png') no-repeat;
+}
+
+ol.round li.nine {
+    background: url('/images/bullets/orderedList9.png') no-repeat;
+}
+
+ol.round li.question
+{
+    background: url('/images/bullets/icon.question.png') no-repeat;
+}
+
+ol.round li.answer
+{
+    background: url('/images/bullets/icon.answer.png') no-repeat;
+}

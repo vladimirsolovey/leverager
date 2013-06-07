@@ -1,0 +1,23 @@
+﻿body {
+}
+
+th,td {
+    border: 1px solid #aaa;
+    padding: 0.75em;
+    background-color: #eee;
+    vertical-align: middle;
+
+}
+
+th {
+    background-color: #ddd;
+    font-weight:bold;
+}
+
+.datatable {
+    width: 100%;
+}
+
+#cboxClose{
+    display:none !important;
+}

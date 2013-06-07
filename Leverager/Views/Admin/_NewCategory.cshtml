@@ -1,0 +1,33 @@
+﻿@model Leverager.Models.Category
+
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+
+@using (Html.BeginForm()) {
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Category</legend>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Name)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Name)
+            @Html.ValidationMessageFor(model => model.Name)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Root)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Root)
+            @Html.ValidationMessageFor(model => model.Root)
+        </div>
+
+        <div>
+            <input type="submit" value="Create" class="button green rounded average float-left" />
+            <a onclick="$.fn.colorbox.close();" class="button blue rounded average float-right" style="cursor: pointer;" >Cancel</a>
+        </div>
+    </fieldset>
+}

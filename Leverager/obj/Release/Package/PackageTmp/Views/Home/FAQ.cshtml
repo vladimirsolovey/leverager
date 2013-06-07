@@ -1,0 +1,26 @@
+﻿@model IEnumerable<Leverager.Models.FAQ>
+
+<hgroup class="title">
+    <h1>@ViewBag.Message</h1>
+</hgroup>
+
+<aside class="float-left">
+    @Model.Count() questions
+    <ol class="round">
+        @foreach (var faq in Model)
+        {
+            <li class="question">@Html.ActionLink(faq.Question, "FAQ", "Home", null, null, faq.Id.ToString(), null, null)</li>
+        }
+    </ol>
+</aside>
+
+<article class="float-right">
+    <ol class="round">
+        @foreach (var faq in Model)
+        {
+            <li class="answer"><p><a name="@faq.Id"></a><strong>@faq.Question</strong></p>@faq.Answer</li>
+        }
+    </ol>
+</article>
+
+

@@ -1,0 +1,114 @@
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\Leverager.dll
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\Leverager.pdb
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\Antlr3.Runtime.dll
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\DotNetOpenAuth.Core.dll
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\EntityFramework.dll
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\Newtonsoft.Json.dll
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\System.Net.Http.dll
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\System.Net.Http.Formatting.dll
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\System.Net.Http.WebRequest.dll
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\System.Web.Helpers.dll
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\System.Web.Http.dll
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\System.Web.Http.WebHost.dll
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\System.Web.Mvc.dll
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\System.Web.Optimization.dll
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\System.Web.Razor.dll
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\System.Web.WebPages.Deployment.dll
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\System.Web.WebPages.dll
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\System.Web.WebPages.Razor.dll
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\WebGrease.dll
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\WebMatrix.Data.dll
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\WebMatrix.WebData.dll
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\EntityFramework.xml
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\Newtonsoft.Json.xml
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\System.Net.Http.xml
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\System.Net.Http.Formatting.xml
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\System.Net.Http.WebRequest.xml
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\System.Web.Helpers.xml
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\System.Web.Http.xml
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\System.Web.Http.WebHost.xml
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\System.Web.Mvc.xml
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\System.Web.Razor.xml
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\System.Web.WebPages.xml
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\System.Web.WebPages.Deployment.xml
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\System.Web.WebPages.Razor.xml
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\WebMatrix.Data.xml
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\WebMatrix.WebData.xml
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\DotNetOpenAuth.Core.xml
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\obj\Debug\Leverager.csprojResolveAssemblyReference.cache
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\obj\Debug\Leverager.Migrations.Initial.resources
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\obj\Debug\Leverager.Migrations.ChildSpellingProblem.resources
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\obj\Debug\Leverager.Migrations.ModelChanges.resources
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\obj\Debug\Leverager.csproj.GenerateResource.Cache
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\obj\Debug\Leverager.dll
+C:\Users\CodeTao\Documents\Visual Studio 2012\Projects\WorkCopy\Leverager\Leverager\obj\Debug\Leverager.pdb
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\Leverager.dll
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\Leverager.pdb
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\Antlr3.Runtime.dll
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\DotNetOpenAuth.Core.dll
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\EntityFramework.dll
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\Newtonsoft.Json.dll
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\System.Net.Http.dll
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\System.Net.Http.Formatting.dll
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\System.Net.Http.WebRequest.dll
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\System.Web.Helpers.dll
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\System.Web.Http.dll
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\System.Web.Http.WebHost.dll
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\System.Web.Mvc.dll
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\System.Web.Optimization.dll
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\System.Web.Razor.dll
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\System.Web.WebPages.Deployment.dll
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\System.Web.WebPages.dll
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\System.Web.WebPages.Razor.dll
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\WebGrease.dll
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\WebMatrix.Data.dll
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\WebMatrix.WebData.dll
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\EntityFramework.xml
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\Newtonsoft.Json.xml
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\System.Net.Http.xml
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\System.Net.Http.Formatting.xml
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\System.Net.Http.WebRequest.xml
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\System.Web.Helpers.xml
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\System.Web.Http.xml
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\System.Web.Http.WebHost.xml
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\System.Web.Mvc.xml
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\System.Web.Razor.xml
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\System.Web.WebPages.xml
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\System.Web.WebPages.Deployment.xml
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\System.Web.WebPages.Razor.xml
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\WebMatrix.Data.xml
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\WebMatrix.WebData.xml
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\DotNetOpenAuth.Core.xml
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\obj\Debug\Leverager.csprojResolveAssemblyReference.cache
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\obj\Debug\Leverager.Migrations.Initial.resources
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\obj\Debug\Leverager.Migrations.ChildSpellingProblem.resources
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\obj\Debug\Leverager.Migrations.ModelChanges.resources
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\obj\Debug\Leverager.csproj.GenerateResource.Cache
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\obj\Debug\Leverager.dll
+C:\Users\CodeTao\Desktop\WorkCopy\Leverager\Leverager\obj\Debug\Leverager.pdb

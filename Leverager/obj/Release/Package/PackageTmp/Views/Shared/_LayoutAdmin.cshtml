@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Admin/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/jquery")
+    @RenderSection("scripts", required: false)
+</head>
+<body>
+    <header>
+        <div class="content-wrapper">
+            <div class="float-left">
+                @*Html.ActionLink("Leverager Logo", "Index", null, new { @class = "site-logo" })*@
+                <a class="site-logo" href="/"><span>Leverager Logo</span></a>
+            </div>
+            <div class="float-right">
+                <section id="login">
+                    @Html.Partial("_LoginPartial")
+                </section>
+                <section id="login">
+                    @Html.Partial("_SearchPartial")
+                </section>
+            </div>
+            <nav>
+                @Html.Partial("_AdminMenu")
+            </nav>
+        </div>
+    </header>
+    <div id="body">
+        @RenderSection("featured", required: false)
+        <section class="content-wrapper main-content clear-fix">
+            @RenderBody()
+        </section>
+    </div>
+    <footer>
+        <div class="content-wrapper">
+            <div class="float-left">
+                <p>&copy; @DateTime.Now.Year Leverager</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

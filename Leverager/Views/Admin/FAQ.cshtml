@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Leverager.Models.FAQ>
+
+@{
+    ViewBag.Title = "FAQ";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+<div>
+    <h1 class="float-left">FAQ</h1>
+    @Html.ActionLink("Add New Q&A","NewFAQ","Admin",routeValues: null, 
+        htmlAttributes: new {id="lightbox", @class = "lightbox float-right button green rounded large", title = "Add new Q&A" })
+    <div class="clear-fix" />
+    <script>
+        $(document).ready(function () {
+
+            $("#cattable").dataTable();
+
+            $(".lightbox").click(function () {
+                var url = $(this).attr('href');
+                $.colorbox({
+                    href: url,
+                    width: "363px",
+                });
+                return false;
+            });
+        });
+    </script>
+</div   >
+
+<table class="datatable">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Question)
+        </th>
+        <th style="width: 85px;"></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Question)
+        </td>
+        <td>
+            @Html.ActionLink("Edit","EditFAQ","Admin", new { id = item.Id }, htmlAttributes: new { @class = "lightbox button blue rounded average"  })
+                    @using (Html.BeginForm("DeleteFAQ/" + item.Id, "Admin", FormMethod.Post, new { id = "deleteForm" + @item.Id, Style = "display:inline!important" }))
+                    {   
+                        @Html.AntiForgeryToken()
+                        <a href="javascript:document.getElementById('deleteForm'+ @item.Id).submit()" 
+                            class="button red rounded average" onClick = "if(!confirm('Are you sure you want to delete this record?')) return false;">Delete</a>
+                    }
+        </td>
+    </tr>
+}
+
+</table>
