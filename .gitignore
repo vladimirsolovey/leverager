@@ -1,0 +1,12 @@
+# HighFusion gitignore files and directories
+
+App_Data
+bin
+Bin
+obj
+Obj
+
+*.suo
+
+/ArcherHotel/bin/ArcherHotel.dll
+/ArcherHotel/bin/ArcherHotel.pdb
